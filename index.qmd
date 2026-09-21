@@ -28,7 +28,11 @@ University of California, Santa Barbara
 ::: {.hero-left}
 # Nestor (Mauricio) Collado
 
-I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. In these cases, regulators cannot finely target behavior, goods, or bads. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
+Welcome!
+
+I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I am on the 2026–2027 job market and expect to complete my PhD in June 2027.
+
+I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
 
 
 **Job Market Paper:** [Bundle Fisheries Under Ecological Uncertainty](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
