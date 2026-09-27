@@ -35,7 +35,7 @@ I am a PhD candidate in Environmental Economics at the Bren School of Environmen
 I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
 
 
-**Job Market Paper:** [Bundle Fisheries Under Ecological Uncertainty](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
+**Job Market Paper:** [Quota Baskets versus Tax Baskets in Fisheries](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
 [View Current Research](research.qmd){.btn-main}
 [View Teaching](teaching.qmd){.btn-secondary}
 :::

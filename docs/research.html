@@ -75,35 +75,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -192,25 +163,25 @@ window.Quarto = {
 <p>My current research agenda involves decision under uncertainty and aggregation economics.</p>
 <section id="job-market-paper" class="level2">
 <h2 class="anchored" data-anchor-id="job-market-paper">Job Market Paper</h2>
-<section id="bundle-fisheries-under-ecological-uncertainty" class="level3">
-<h3 class="anchored" data-anchor-id="bundle-fisheries-under-ecological-uncertainty">Bundle Fisheries Under Ecological Uncertainty</h3>
+<section id="quota-baskets-versus-tax-baskets-in-fisheries" class="level3">
+<h3 class="anchored" data-anchor-id="quota-baskets-versus-tax-baskets-in-fisheries">Quota Baskets versus Tax Baskets in Fisheries</h3>
 <div class="pub-links">
 <p><a href="files/Collado_JMP_Bundle_Fisheries.pdf" aria-label="Download PDF" title="Download PDF"><i class="bi bi-file-earmark-pdf"></i> PDF</a></p>
 </div>
-<p><em>Abstract</em>: Because managing stocks individually is costly, many fisheries bundle multiple stocks and manage them with a single instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee, extending the constant-escapement framework of Reed (1979) and Weitzman (2002) to a multispecies fishery under ecological uncertainty.</p>
-<p>The only condition for a well-designed basket is equalizing marginal profits across species, a condition that combines biological productivity, harvesting costs, and prices. Under this criterion, both instruments are first-best in a deterministic setting, but under ecological uncertainty both become second-best, with the tax outperforming the quota. The main reason for this difference is that the tax’s effectiveness is unaffected by realized shocks. However, as the number of species in the basket increases, the quota’s disadvantage is diversified away, reducing the average per-species welfare gap. Yet, increasing <span class="math inline">\(N\)</span> has a second cost: the mismatch from pooling heterogeneous species grows with basket size for both instruments. Larger baskets are not always better.</p>
+<p><em>Abstract</em>: Because managing stocks individually is costly, many fisheries bundle multiple stocks and manage them with a single instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee, extending the constant-escapement framework of Reed (1979)) and Weitzman (2002) to a multispecies fishery under ecological uncertainty.</p>
+<p>The fundamental condition for a well-designed basket is equalizing marginal profits across species, a condition that combines biological productivity, harvesting costs, and prices. Under this criterion, I find that the tax basket outperforms the quota basket. However, two qualifications refine this result: (i) both instruments coincide and are first-best when marginal profits are equalized at each species’ optimal escapement in a deterministic setting; and (ii) as the number of species in the group increases, the quota’s uncertainty loss is diversified away, reducing the average per-species welfare gap. Yet increasing the basket size has a second cost: the mismatch from pooling heterogeneous species grows with the number of species for both instruments. Larger baskets are not always better.</p>
 <p>Bundling improves on species-specific management only when the monitoring costs it saves exceed this pooling loss.</p>
 </section>
 </section>
 <section id="work-in-progress" class="level2">
 <h2 class="anchored" data-anchor-id="work-in-progress">Work in Progress</h2>
-<section id="prices-vs.-quantities-under-complex-constraints" class="level3">
-<h3 class="anchored" data-anchor-id="prices-vs.-quantities-under-complex-constraints">Prices vs.&nbsp;Quantities Under Complex Constraints</h3>
+<section id="prices-vs.-quantities-under-complexity-constraints" class="level3">
+<h3 class="anchored" data-anchor-id="prices-vs.-quantities-under-complexity-constraints">Prices vs.&nbsp;Quantities Under Complexity Constraints</h3>
 <p>Extends Weitzman’s (1974) instrument-choice framework to a multi-good static setting in which regulated goods are correlated through non-separable benefits (substitutes or complements) and jointly distributed cost and benefit shocks.</p>
 </section>
 <section id="weak-property-rights-and-resource-extraction" class="level3">
 <h3 class="anchored" data-anchor-id="weak-property-rights-and-resource-extraction">Weak Property Rights and Resource Extraction</h3>
-<p>Shows that heterogeneity in firms’ effective discount rates—capturing institutional risk and weak property rights—generates accelerated extraction and distortions of the classic Hotelling path in a competitive non-renewable resource market.</p>
+<p>Shows that heterogeneity in firms’ effective discount rates (capturing institutional risk and weak property rights) generates accelerated extraction and distortions of the classic Hotelling path in a competitive non-renewable resource market.</p>
 </section>
 <section id="aggregate-quotas-under-depletion-risk-with-shu-chen-tsao" class="level3">
 <h3 class="anchored" data-anchor-id="aggregate-quotas-under-depletion-risk-with-shu-chen-tsao">Aggregate Quotas under Depletion Risk (with Shu-chen Tsao)</h3>
