@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.columns .v-center}
-::: {.column width="50%"}
+::: {.column width="30%"}
 
 ::: {.profile-card}
 ![](images/mauricio.jpg){.profile-photo}
@@ -16,28 +16,31 @@ page-layout: full
 <a href="https://www.linkedin.com/in/nestor-c-971956101" target="_blank" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
 <a href="https://github.com/MauricioCollado" target="_blank" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a>
 
-PhD Candidate  
-Bren School of Environmental Science & Management  
+nestorcollado@ucsb.edu
+
+PhD Candidate\
+Bren School of Environmental Science & Management\
 University of California, Santa Barbara
 :::
 
 :::
 
-::: {.column width="65%"}
+::: {.column width="70%"}
 
 ::: {.hero-left}
-# Nestor (Mauricio) Collado
+# Mauricio Collado
 
-Welcome!
-
-I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I am on the 2026–2027 job market and expect to complete my PhD in June 2027.
+Welcome! I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I am on the 2026–2027 job market and expect to complete my PhD in June 2027.
 
 I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
 
+**Job Market Paper:** [Bundle Fisheries Under Ecological Uncertainty](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
 
-**Job Market Paper:** [Quota Baskets versus Tax Baskets in Fisheries](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
+::: {.hero-buttons style="margin-top: 1.5rem;"}
 [View Current Research](research.qmd){.btn-main}
 [View Teaching](teaching.qmd){.btn-secondary}
+:::
+
 :::
 
 :::
@@ -45,19 +48,14 @@ I study how regulators should design environmental and resource policy instrumen
 
 ## Research Themes
 
-
-### Environmental and Resource Economics
-
-My work examines extraction, and resource management under uncertainty.
-
 ### Environmental policy under limited information
 
 I study how information constraints shape the choice between taxes, quotas, and broader policy bundles.
 
-### Applied Microeconomics Theory
+### Fisheries and natural resource economics
 
-I rely on dynamic economic models to understand regulation when ecosystems are complex and policy must remain feasible in practice.
+My work examines multispecies fisheries, extraction, and resource management under uncertainty.
 
+### Dynamic modeling for policy design
 
-
-
+I use dynamic economic models to understand regulation when ecosystems are complex and policy must remain feasible in practice.
